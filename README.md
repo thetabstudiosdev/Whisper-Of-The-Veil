@@ -1,4 +1,29 @@
-# Whisper-Of-The-Veil
+## 📑 Navigation
+
+**Studio**
+- [About ThetaB Studios](#about-thetab-studios)
+
+**Game**
+- [Overview](#overview)
+
+**Legal**
+- [Privacy Policy](#privacy-policy)
+- [Terms of Service](#terms-of-service)
+- [End User License Agreement (EULA)](#end-user-license-agreement-eula)
+- [Intellectual Property & Branding](#intellectual-property--branding)
+
+**Policies Breakdown**
+- [Data Collection](#data-collection)
+- [Data Usage](#data-usage)
+- [Data Storage](#data-storage)
+- [Third-Party Services](#third-party-services)
+- [GDPR Compliance](#gdpr-compliance)
+- [Children’s Privacy](#childrens-privacy)
+
+**Contact**
+- [Contact](#contact)
+
+---
 # ThetaB Studios — Legal & Policies
 
 **Last Updated:** June 2026  
