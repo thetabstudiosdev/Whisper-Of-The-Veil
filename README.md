@@ -18,9 +18,9 @@ The game is being developed by **ThetaB Studios** as an independent creative pro
 
 ## 🌐 Official Links
 
-- 🌍 Website: https://whispergame.netlify.app  
-- 🔗 Social Hub: https://whisper-of-the-veil.netlify.app  
-- 📚 Documentation: This repository  
+- 🌍 **Official Website:** [https://whispergame.netlify.app](https://whispergame.netlify.app)
+- 🔗 **Social Hub:** [https://whisper-of-the-veil.netlify.app](https://whisper-of-the-veil.netlify.app)
+- 📚 **GitHub Repository:** [https://github.com/thetabstudiosdev/Whisper-Of-The-Veil](https://github.com/thetabstudiosdev/Whisper-Of-The-Veil)
 
 ---
 
